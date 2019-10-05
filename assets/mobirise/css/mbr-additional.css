@@ -2265,17 +2265,15 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #ff7f9f, #ffffff) !important;
 }
-.cid-rDYOrfLRcF {
-  background: #55b4d4;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #55b4d4, #ff3366);
+.cid-rE2FCeyRxa {
+  background: #ffffff;
 }
-.cid-rDYOrfLRcF .video-block {
+.cid-rE2FCeyRxa .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rDYOrfLRcF .video-block {
+  .cid-rE2FCeyRxa .video-block {
     width: 100% !important;
   }
 }
